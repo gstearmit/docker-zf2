@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 ENV DEBIAN_FRONTEND noninteractive
 
 MAINTAINER Matthias Glaub <magl@magl.net>
